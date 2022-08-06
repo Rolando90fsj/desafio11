@@ -1,0 +1,7 @@
+Nombre producto: null
+Precio producto: $null
+Descripcion producto: null
+Codigo producto: null
+Talla producto: null
+Marca producto: null
+Color producto: null

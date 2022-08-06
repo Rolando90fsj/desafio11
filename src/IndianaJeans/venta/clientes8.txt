@@ -1,0 +1,7 @@
+Nombre producto: rola
+Precio producto: $ropa
+Descripcion producto: rosa
+Codigo producto: roca
+Talla producto: ropa
+Marca producto: roma
+Color producto: rota

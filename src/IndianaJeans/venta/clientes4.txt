@@ -1,0 +1,7 @@
+Nombre producto: a
+Precio producto: $s
+Descripcion producto: d
+Codigo producto: f
+Talla producto: g
+Marca producto: h
+Color producto: j
